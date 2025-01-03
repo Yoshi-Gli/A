@@ -7754,3 +7754,15 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [03Jan2025 02:24:29.141] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
 [03Jan2025 02:26:05.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda has made the advancement [Simple Farming]
 [03Jan2025 02:26:19.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda has made the advancement [Stone Age]
+[03Jan2025 02:27:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda has made the advancement [Getting an Upgrade]
+[03Jan2025 02:28:28.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 02:28:28.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 02:30:30.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda has made the advancement [Monster Hunter]
+[03Jan2025 02:30:39.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda was slain by Zombie
+[03Jan2025 02:33:28.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 02:33:28.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 02:33:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 has made the advancement [Diamonds!]
+[03Jan2025 02:34:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 has made the advancement [Alex's Caves]
+[03Jan2025 02:34:28.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 has made the advancement [Suit Up]
+[03Jan2025 02:34:55.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 has made the advancement [Once Upon a Cave]
+[03Jan2025 02:34:57.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 has made the advancement [It Belongs in a Museum]
