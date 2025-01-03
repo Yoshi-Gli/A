@@ -7778,3 +7778,14 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [03Jan2025 02:49:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda has made the advancement [Suit Up]
 [03Jan2025 02:53:28.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 02:53:28.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 02:58:13.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 is bleeding. Bexko0 was slain by Cave Centipede
+[03Jan2025 02:58:28.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 02:58:28.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 02:58:36.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Bexko0 a server operator
+[03Jan2025 02:58:43.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bexko0: Teleported Lumbda to Bexko0]
+[03Jan2025 02:59:02.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 was slain by Cave Centipede
+[03Jan2025 02:59:03.439] [Server thread/DEBUG] [twilightforest/]: Player Bexko0 (b4f6949c-c7a0-3e40-82e4-40a176753161) respawned and received items held in storage
+[03Jan2025 02:59:06.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bexko0: Teleported Bexko0 to Lumbda]
+[03Jan2025 02:59:32.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda was slain by Cave Centipede
+[03Jan2025 03:03:28.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:03:28.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 02:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-03 02:35:36 +0000"
@@ -673,9 +679,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 02:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-03 02:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 02:54:46 +0000"
     },
     "done": true
   },
@@ -1357,6 +1375,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 02:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 02:34:23 +0000"
@@ -1660,6 +1684,12 @@
   "vc_gliders:recipes/glider_upgrading/diamond_glider_copper_upgrade": {
     "criteria": {
       "has_copper_ingot": "2025-01-03 02:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-03 02:57:24 +0000"
     },
     "done": true
   },
@@ -2110,6 +2140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 02:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 02:07:37 +0000"
@@ -2225,7 +2261,8 @@
     "criteria": {
       "cooked_mutton": "2025-01-03 02:12:03 +0000",
       "cooked_beef": "2025-01-03 02:23:27 +0000",
-      "apple": "2025-01-03 02:08:46 +0000"
+      "apple": "2025-01-03 02:08:46 +0000",
+      "bread": "2025-01-03 02:56:31 +0000"
     },
     "done": false
   },

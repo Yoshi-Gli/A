@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-03 02:47:39 +0000"
@@ -355,6 +361,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-03 02:25:30 +0000"
@@ -370,6 +382,12 @@
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-01-03 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -397,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-03 02:25:30 +0000"
@@ -412,6 +436,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-01-03 02:21:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -601,6 +631,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/vc_gliders.main/paraglider_netherite": {
     "criteria": {
       "has_crafting_table": "2025-01-03 02:25:43 +0000"
@@ -661,6 +697,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-03 02:29:21 +0000"
@@ -676,6 +718,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-03 02:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -778,6 +826,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-03 02:26:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -925,6 +979,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-03 02:38:53 +0000"
@@ -952,6 +1012,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-03 02:26:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -1021,6 +1087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-01-03 02:45:44 +0000"
@@ -1069,9 +1141,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -1111,6 +1201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-03 02:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 02:47:12 +0000"
@@ -1120,6 +1216,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -1168,6 +1270,12 @@
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-01-03 02:31:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -1240,6 +1348,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-03 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -1345,6 +1459,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 02:51:14 +0000"
@@ -1354,6 +1474,12 @@
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-01-03 02:29:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -1387,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-01-03 02:38:07 +0000"
@@ -1396,6 +1528,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-03 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
@@ -1486,6 +1624,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-03 02:26:19 +0000"
@@ -1548,6 +1692,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-03 02:38:07 +0000"
@@ -1563,6 +1713,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-03 02:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-03 02:54:10 +0000"
     },
     "done": true
   },
