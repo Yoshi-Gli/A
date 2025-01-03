@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 03:10:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-03 02:33:13 +0000"
@@ -973,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 03:10:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-01-03 02:38:07 +0000"
@@ -1090,6 +1102,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-01-03 03:09:02 +0000"
     },
     "done": true
   },
@@ -1598,6 +1616,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-03 03:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_horse_armor": "2025-01-03 02:22:30 +0000"
@@ -1646,6 +1670,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-03 02:37:26 +0000",
       "cooked_mutton": "2025-01-03 02:31:14 +0000",
+      "bread": "2025-01-03 03:04:06 +0000",
       "golden_carrot": "2025-01-03 02:24:39 +0000"
     },
     "done": false

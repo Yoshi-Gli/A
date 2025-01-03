@@ -2216,3 +2216,4 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [03Jan2025 02:59:02.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 was slain by Cave Centipede
 [03Jan2025 02:59:06.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bexko0: Teleported Bexko0 to Lumbda]
 [03Jan2025 02:59:32.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda was slain by Cave Centipede
+[03Jan2025 03:12:06.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda has made the advancement [Amateur Archaeologist]
