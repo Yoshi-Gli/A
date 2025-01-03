@@ -2280,3 +2280,32 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
 	... 48 more
 [03Jan2025 03:23:48.200] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/18983, l='ServerLevel[world]', x=648.50, y=204.06, z=193.74] died, message: 'Librarian hit the ground too hard'
+[03Jan2025 03:27:43.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda burned to death
+[03Jan2025 03:29:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 is bleeding. Bexko0 was turned into KFC by Fire Dragon
+[03Jan2025 03:29:18.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 was incinerated by a dragon
+[03Jan2025 03:29:21.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda went up in flames
+[03Jan2025 03:29:28.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bexko0: Teleported Bexko0 to Lumbda]
+[03Jan2025 03:29:32.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda went up in flames
+[03Jan2025 03:29:48.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=214, z=6}
+[03Jan2025 03:29:48.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 is bleeding. Bexko0 was incinerated by Fire Dragon
+[03Jan2025 03:29:53.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=213, z=7}
+[03Jan2025 03:29:53.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=214, z=7}
+[03Jan2025 03:29:55.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda was shot by Wither Skeleton
+[03Jan2025 03:29:59.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 burned to death
+[03Jan2025 03:30:01.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda was doomed to fall
+[03Jan2025 03:30:43.848] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[03Jan2025 03:30:48.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 is bleeding. Bexko0 was turned into KFC by Fire Dragon
+[03Jan2025 03:30:53.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 walked into fire whilst fighting Fire Dragon
+[03Jan2025 03:31:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bexko0: Teleported Lumbda to Bexko0]
+[03Jan2025 03:31:30.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda has made the advancement [Sweet Dreams]
+[03Jan2025 03:31:32.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bexko0> s
+[03Jan2025 03:32:06.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/23903, l='ServerLevel[world]', x=648.50, y=204.06, z=193.74] died, message: 'Fletcher hit the ground too hard'
+[03Jan2025 03:33:03.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bexko0> as dd
+[03Jan2025 03:34:09.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda was burnt to a crisp whilst fighting Fire Dragon
+[03Jan2025 03:34:19.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda burned to death
+[03Jan2025 03:34:19.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 is bleeding. Bexko0 was slain by Fire Dragon
+[03Jan2025 03:34:26.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 was slain by Fire Dragon
+[03Jan2025 03:34:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda was turned into KFC by Fire Dragon
+[03Jan2025 03:34:47.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda was turned into KFC by a dragon
+[03Jan2025 03:34:48.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 has made the advancement [Dragonslayer]
+[03Jan2025 03:37:03.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23887, l='ServerLevel[world]', x=648.61, y=204.06, z=193.74] died, message: 'Unemployed hit the ground too hard'
