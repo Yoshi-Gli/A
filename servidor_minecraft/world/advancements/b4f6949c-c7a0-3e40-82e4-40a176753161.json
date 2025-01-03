@@ -806,6 +806,12 @@
     },
     "done": true
   },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-01-03 03:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-03 02:43:09 +0000"
@@ -1115,6 +1121,12 @@
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-01-03 02:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-03 03:20:34 +0000"
     },
     "done": true
   },

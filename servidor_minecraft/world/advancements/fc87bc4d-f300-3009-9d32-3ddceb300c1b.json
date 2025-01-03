@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-01-03 02:38:07 +0000"
@@ -212,6 +218,12 @@
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-01-03 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 03:21:45 +0000"
     },
     "done": true
   },
@@ -285,6 +297,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-03 02:35:50 +0000",
       "minecraft:spider": "2025-01-03 02:52:34 +0000",
+      "minecraft:silverfish": "2025-01-03 03:17:22 +0000",
       "minecraft:zombie": "2025-01-03 02:30:30 +0000"
     },
     "done": false
@@ -292,6 +305,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-01-03 02:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
     },
     "done": true
   },
@@ -337,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 03:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-01-03 02:51:14 +0000"
@@ -370,6 +395,12 @@
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
     },
     "done": true
   },
@@ -409,9 +440,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-01-03 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 03:21:45 +0000"
     },
     "done": true
   },
@@ -523,6 +566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-01-03 02:38:07 +0000"
@@ -574,6 +623,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-03 02:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
     },
     "done": true
   },
@@ -637,6 +692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-01-03 02:54:10 +0000"
@@ -652,6 +713,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-03 02:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
     },
     "done": true
   },
@@ -700,6 +767,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-01-03 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-01-03 03:22:28 +0000"
     },
     "done": true
   },
@@ -862,6 +935,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-01-03 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
     },
     "done": true
   },
@@ -1315,6 +1394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 03:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-03 02:47:12 +0000"
@@ -1423,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 03:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-03 02:51:14 +0000"
@@ -1521,6 +1612,7 @@
   },
   "simplefarming:berries": {
     "criteria": {
+      "blueberries": "2025-01-03 03:22:18 +0000",
       "strawberries": "2025-01-03 02:28:34 +0000"
     },
     "done": false
@@ -1552,6 +1644,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-01-03 02:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-01-03 03:22:45 +0000"
     },
     "done": true
   },
@@ -1588,6 +1686,7 @@
   "wythers:world_explorer": {
     "criteria": {
       "wythers:forest_edge": "2025-01-03 02:24:35 +0000",
+      "wythers:gravelly_river": "2025-01-03 03:21:12 +0000",
       "wythers:underground": "2025-01-03 02:29:57 +0000"
     },
     "done": false
@@ -1663,6 +1762,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-03 02:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-03 03:21:45 +0000"
     },
     "done": true
   },
