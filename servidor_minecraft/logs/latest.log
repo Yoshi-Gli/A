@@ -2312,3 +2312,18 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [03Jan2025 03:44:30.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/23901, l='ServerLevel[world]', x=672.18, y=204.00, z=203.47] died, message: 'Fisherman was slain by Zombie'
 [03Jan2025 03:44:43.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23902, l='ServerLevel[world]', x=649.37, y=205.23, z=194.98] died, message: 'Librarian was slain by Zombie'
 [03Jan2025 03:45:08.833] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/23886, l='ServerLevel[world]', x=647.30, y=206.42, z=187.82] died, message: 'Fisherman was slain by Zombie'
+[03Jan2025 03:47:38.282] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23854, l='ServerLevel[world]', x=773.48, y=262.00, z=182.30] died, message: 'Unemployed was slain by Zombie'
+[03Jan2025 03:47:40.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 is bleeding. Bexko0 fell from a high place
+[03Jan2025 03:47:50.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bexko0: Teleported Bexko0 to Lumbda]
+[03Jan2025 03:48:12.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda was doomed to fall by Zombie
+[03Jan2025 03:48:53.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bexko0: Teleported Lumbda to Bexko0]
+[03Jan2025 03:50:51.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumbda was kicked for floating too long!
+[03Jan2025 03:50:51.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lumbda lost connection: Flying is not enabled on this server
+[03Jan2025 03:50:51.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda left the game
+[03Jan2025 03:51:08.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lumbda[/127.229.212.36:41775] logged in with entity id 28186 at (742.0426645322873, 76.53329638184485, 199.9784052169396)
+[03Jan2025 03:51:08.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda joined the game
+[03Jan2025 03:51:08.385] [Server thread/INFO] [Jade/]: Syncing config to Lumbda (fc87bc4d-f300-3009-9d32-3ddceb300c1b)
+[03Jan2025 03:51:12.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Bexko0: Teleported Lumbda to Bexko0]
+[03Jan2025 03:51:16.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lumbda is bleeding. Lumbda fell from a high place
+[03Jan2025 03:54:20.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/23884, l='ServerLevel[world]', x=646.27, y=210.06, z=204.66] died, message: 'Shepherd was slain by Lumbda'
+[03Jan2025 03:54:27.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/23885, l='ServerLevel[world]', x=644.92, y=210.88, z=206.57] died, message: 'Farmer was slain by Lumbda'
