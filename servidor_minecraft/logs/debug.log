@@ -7930,3 +7930,10 @@ Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
 [03Jan2025 03:34:48.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bexko0 has made the advancement [Dragonslayer]
 [03Jan2025 03:34:49.722] [Server thread/DEBUG] [twilightforest/]: Player Lumbda (fc87bc4d-f300-3009-9d32-3ddceb300c1b) respawned and received items held in storage
 [03Jan2025 03:37:03.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23887, l='ServerLevel[world]', x=648.61, y=204.06, z=193.74] died, message: 'Unemployed hit the ground too hard'
+[03Jan2025 03:38:28.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:38:28.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:43:28.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 03:43:28.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 03:44:30.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/23901, l='ServerLevel[world]', x=672.18, y=204.00, z=203.47] died, message: 'Fisherman was slain by Zombie'
+[03Jan2025 03:44:43.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23902, l='ServerLevel[world]', x=649.37, y=205.23, z=194.98] died, message: 'Librarian was slain by Zombie'
+[03Jan2025 03:45:08.833] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/23886, l='ServerLevel[world]', x=647.30, y=206.42, z=187.82] died, message: 'Fisherman was slain by Zombie'
